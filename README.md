@@ -38,6 +38,7 @@ match[8] // => '000'
 
 ## See Also
 - [Date.prototype.toISOString()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toISOString)
+- [regex-utc-date](https://github.com/regexps/regex-utc-date)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
